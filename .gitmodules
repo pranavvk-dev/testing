@@ -1,0 +1,3 @@
+[submodule "commonModule"]
+	path = commonModule
+	url = https://github.com/pranavvk-dev/commonModule.git
